@@ -1,0 +1,7 @@
+.vscode
+.idea
+build/
+install/
+include/
+cmake-build-debug/
+log/
